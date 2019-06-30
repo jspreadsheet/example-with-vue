@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# install jexcel
+npm install jexcel
+
 # serve with hot reload at localhost:8080
 npm run dev
 
